@@ -1,1 +1,1 @@
-﻿Lista_02.Exercicio01();
+﻿Lista_02.Exercicio03();
